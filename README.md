@@ -11,3 +11,5 @@ In project used
 - TypeScript
 - Next Js
 - React
+
+Final Project Finished

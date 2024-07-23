@@ -1,3 +1,6 @@
+Live: https://threads-chat.vercel.app/
+
+
 In project used
 - Next.js
 - MongoDB
